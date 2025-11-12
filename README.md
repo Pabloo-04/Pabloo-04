@@ -28,6 +28,8 @@ Node.js · Express
 Java · C++ · Python  
 
 **Data Science:**  
+https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+
 Pandas · NumPy · Scikit-learn · Jupyter Notebooks  
 
 **Visualization:**  
